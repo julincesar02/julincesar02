@@ -1,9 +1,9 @@
-# 👋 Eae, tudo bom?   
-### 💬 Meu nome é Júlio César, moro em Lavras no estado de Minas Gerais
-#### 🌱 Eu estou estudando programação (DEV beginner) no instituíto Youx
-#### 😄 Sou uma pessoa extrovertida e disciplinada
-#### 🔭 Eu não estou empregado em nenhuma faculdade, mas eu quero fazer sistemas de informação 
-#### 📫 Minhas redes sociais (@:juliogoiabinha060@gmail.com) instagram: julisantos076
+#### ° 👋 Eae, tudo bom? 
+#### ° 💬 Meu nome é Júlio César, moro em Lavras no estado de Minas Gerais
+#### ° 📖 Eu estou estudando programação (DEV beginner) no instituíto Youx
+#### ° 😄 Sou uma pessoa extrovertida e disciplinada
+#### ° 🔭 Eu não estou empregado em nenhuma faculdade, mas eu quero fazer sistemas de informação 
+#### ° 📫 Minhas redes sociais (@:juliogoiabinha060@gmail.com) instagram: julisantos076
 
 
 <!--
